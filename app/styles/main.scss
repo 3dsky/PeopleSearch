@@ -1,0 +1,32 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+  color: #1380b2;
+}
+
+.name {
+   color:#4fa0c5;
+   margin-top: 16px;
+   margin-bottom: 32px;
+   font-weight: bold;
+   font-size:18px;
+}
+
+.result {
+  img {
+    height: 182px;
+  }
+}
+
+.border-bottom-none {
+    border-bottom: none;
+}
+
+.navbar-inverse {
+  .navbar-brand{
+    color: #ffffff;
+  }
+}
